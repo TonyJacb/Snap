@@ -8,4 +8,4 @@ Follow [this](https://www.youtube.com/watch?v=aimSGOAUI8Y) till after the execut
 To make this program mobile, I downloaded IPWebcam for my Android phone and fed the camera input to the TFlite model. The main script is a modification of the `TFlite_detection_video.py` script from [Edje Electronics](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
 
 ## Block Diagram
-![](Group 5.png)
+![]("Group 5.png")
